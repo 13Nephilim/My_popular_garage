@@ -49,7 +49,7 @@
         android:layout_marginStart="32dp"
         android:layout_marginTop="16dp"
         android:background="#00695C"
-        android:text="პარამეტრები"
+        android:text="ჩვენ შესახებ"
         android:textColor="@color/white"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button9" />
